@@ -1,6 +1,6 @@
 const filters = {
     searchText: '',
-    hideCompleted: ''
+    hideCompleted: false
 }
 
 const getFilters = () => filters
